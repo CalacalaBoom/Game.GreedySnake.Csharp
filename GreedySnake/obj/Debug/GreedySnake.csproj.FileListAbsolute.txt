@@ -1,0 +1,10 @@
+F:\workspace\C#\game\GreedySnake\GreedySnake\bin\Debug\GreedySnake.exe.config
+F:\workspace\C#\game\GreedySnake\GreedySnake\bin\Debug\GreedySnake.exe
+F:\workspace\C#\game\GreedySnake\GreedySnake\bin\Debug\GreedySnake.pdb
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.csprojAssemblyReference.cache
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.Form1.resources
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.Properties.Resources.resources
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.csproj.GenerateResource.cache
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.csproj.CoreCompileInputs.cache
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.exe
+F:\workspace\C#\game\GreedySnake\GreedySnake\obj\Debug\GreedySnake.pdb
